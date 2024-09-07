@@ -1,0 +1,87 @@
+{
+    "end_date": "2024-09-08",
+    "name": "Кино 18+ International",
+    "info_url": "https://epg.pw/channels/65234/20240907.html",
+    "country": "俄羅斯聯邦",
+    "description": null,
+    "error_message": "",
+    "provider": "",
+    "source_url": "https://epg.pw/api/epg.json?channel_id=65234&date=20240907&timezone=None",
+    "epg_list": [
+        {
+            "desc": null,
+            "start_date": "20240907002100 +0000",
+            "title": "х/ф Маркиз Де Сад"
+        },
+        {
+            "desc": null,
+            "start_date": "20240907014400 +0000",
+            "title": "х/ф Аморальность"
+        },
+        {
+            "desc": null,
+            "start_date": "20240907033000 +0000",
+            "title": "х/ф Эротические истории: Леденцы"
+        },
+        {
+            "desc": null,
+            "start_date": "20240907035900 +0000",
+            "title": "х/ф Перерыв"
+        },
+        {
+            "desc": null,
+            "start_date": "20240907200000 +0000",
+            "title": "х/ф И твою маму тоже | Перевод: DVO"
+        },
+        {
+            "desc": null,
+            "start_date": "20240907214100 +0000",
+            "title": "х/ф Это моё тело"
+        },
+        {
+            "desc": null,
+            "start_date": "20240907225800 +0000",
+            "title": "х/ф Их кино. Распутин - оргии при царском дворе"
+        },
+        {
+            "desc": null,
+            "start_date": "20240908010000 +0000",
+            "title": "х/ф Особенная женщина"
+        },
+        {
+            "desc": null,
+            "start_date": "20240908021500 +0000",
+            "title": "х/ф Q - Загадка женщины"
+        },
+        {
+            "desc": null,
+            "start_date": "20240908035800 +0000",
+            "title": "х/ф Перерыв"
+        },
+        {
+            "desc": null,
+            "start_date": "20240908200000 +0000",
+            "title": "х/ф Маленькие губки"
+        },
+        {
+            "desc": null,
+            "start_date": "20240908211200 +0000",
+            "title": "х/ф Трахни меня"
+        },
+        {
+            "desc": null,
+            "start_date": "20240908222600 +0000",
+            "title": "х/ф Их кино. Все для наслаждения"
+        },
+        {
+            "desc": null,
+            "start_date": "20240908234500 +0000",
+            "title": "х/ф Тайны девочек-подростков"
+        }
+    ],
+    "offset": "+00:00",
+    "timezone": "UTC",
+    "error_code": -1,
+    "start_date": "2024-09-07",
+    "icon": "https://epg.pw/media/images/epg/2024/06/08/20240608024920847617_77.png"
+}
