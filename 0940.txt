@@ -1,0 +1,1433 @@
+#EXTM3U
+#EXTINF:0,MyCamTV Teen Girls     
+http://live.mycamtv.com/teen.m3u8
+#EXTINF:0,MyCamTV MILF
+http://live.mycamtv.com/milf.m3u8
+#EXTINF:0,MyCamTV Young Girls
+http://live.mycamtv.com/young.m3u8
+#EXTINF:0,MyCamTV Mature
+http://live.mycamtv.com/bigtits.m3u8
+#EXTINF:0,MyCamTV Arab Girls
+http://live.mycamtv.com/arab.m3u8
+#EXTINF:0,MyCamTV Ebony Girls
+http://live.mycamtv.com/ebony.m3u8
+#EXTINF:0,MyCamTV Asian Girls
+http://live.mycamtv.com/asian.m3u8
+#EXTINF:0,MyCamTV Brunette Girls
+http://live.mycamtv.com/brunette.m3u8
+#EXTINF:0,MyCamTV Latina Girls
+http://live.mycamtv.com/latina.m3u8
+#EXTINF:0,MyCamTV White Girls
+http://live.mycamtv.com/white.m3u8
+#EXTINF:0,MyCamTV Blonde Girls
+http://live.mycamtv.com/blonde.m3u8
+#EXTINF:0,MyCamTV Anal
+http://live.mycamtv.com/anal.m3u8
+#EXTINF:0,MyCamTV Big Ass Girls
+http://live.mycamtv.com/bigass.m3u8
+#EXTINF:0,MyCamTV Girls Squirt
+http://live.mycamtv.com/squirt.m3u8
+#EXTINF:0,MyCamTV Big Tits Girls
+http://live.mycamtv.com/bigtits.m3u8
+#EXTINF:0,MyCamTV Skinny Girls
+http://live.mycamtv.com/skinny.m3u8
+#EXTINF:0,MyCamTV Medium Girls
+http://live.mycamtv.com/medium.m3u8
+#EXTINF:0,MyCamTV Blowjob
+http://live.mycamtv.com/blowjob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MILF" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Big Dick" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Big Tits" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fetish" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornstar" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Big Ass" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Interracial" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latina" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POV" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Blowjob" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teen" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hardcore" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cuckold" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Threesome" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Russian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lesbian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rough" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gangbang" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Anal" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Compilation" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Brunette" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gay" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Gay
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Asian
+http://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",玩偶•橘子猫「合作集」
+https://oss.rw.bbmmic2.com/data/20230426/guDLBTn8/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",真心话大冒险「情人节特辑」
+https://oss.rw.bbmmic2.com/data/20230311/soCDcqfB/hls/index.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",新季里的某一天「新年开作2023」
+https://oss.rw.bbmmic2.com/data/20230216/iw7LeEbx/hls/index.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",情侣游戏 零
+https://oss.rw.bbmmic2.com/data/20221204/dDLVEjQM/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",情侣游戏 壹
+https://oss.rw.bbmmic2.com/data/20230129/zqeHgwbd/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",一日女友的漂亮姐姐 上
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/ph/gr/7v/78/af7b145ecae246b2ac79cecb6f47f6ad.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",一日女友的漂亮姐姐 中
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/j3/i6/yf/uj/4c59de88250d4dce94d5e5260a48468a.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",一日女友的漂亮姐姐 下
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/k6/r5/4l/88/60aac9f4edee40078853a86817ead1ff.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",一日女友的漂亮姐姐 番外  ASMR姐姐的梦境
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/74/oh/ov/ky/be6214b2998f4f33a65d8e879fc77c8e.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",一日女友的漂亮姐姐 番外篇二 热恋海岸线
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/yu/mt/0k/df/68768a0f7843400c91a65843e069f9fa.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",森林00-她的妄想
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/8c/sf/lc/5c/34774a9c12b649619c8f4049759c35bf.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",森林01-相遇
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/q9/cf/me/5p/453774d191ce481d9714925f1fba72bc.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",森林02-欺骗
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/jm/jr/pg/bh/03dd6e239b5c40ceb3b156344a64b372.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",森林03-碎裂
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/si/p3/76/69/ff14c7c54f1143ddaacac8810fdb8e90.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",森林04-吴可玖瑶(终)
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/qy/fi/ih/p7/dd522f6b3bd64097ba0e4350b9e65e1c.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",夏日回忆1
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/b3/tk/kw/y1/4cbb66dfcd884546994ebf0fe557635d.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",夏日回忆2
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/8v/45/pi/sf/049e460a47e94faabd6e1b7bda0bb6ba.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",夏日回忆3
+https://oss.rw.bbmmic2.com/data/20220102/MWEjUEmA/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",海岛生活1
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/f3/op/3a/ja/1bfcd36a631e400f9e673a66fbfb7385.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",海岛生活2
+https://oss.rw.bbmmic2.com/data/20220807/thM7wsId/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",海岛生活3
+https://oss.rw.bbmmic2.com/data/20220823/sFbrS6lG/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",甜美游戏陪玩1
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/uu/7f/bg/b5/28ed051cdec84ccc98cb9a8a72b2a1aa.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",甜美游戏陪玩2
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/ex/yn/el/3k/09f83fc673314e1c8fda7139737b4f1a.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",甜美游戏陪玩3
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/us/6e/s5/8s/72622236ce244252b9726a3530820f28.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",甜美游戏陪玩4
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/yf/kq/h5/62/0edc074baab140e1976e12e1099d70d2.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",晨钟/暮鼓1
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/qu/rw/07/7u/3f708cc50f054574b72074d960e31609.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",晨钟/暮鼓2
+https://oss.rw.bbmmic2.com/data/20220713/pU4sKd7M/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",青蛇
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/2v/hl/ll/f0/ec17339c89b348b3a3d66edfeb412b24.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",蛇喰梦子的陨落
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/qy/yi/94/89/6dc3c8cb9112436682a5af22588f52a0.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",情人节特辑
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/gj/v2/mf/a8/77534e95584448e4a62d3205b260e398.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",动漫《缘之空》穹妹
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/11/pw/5m/9o/7767714a57434242a353b23d4a3ef841.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",纯性爱练习手册
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/cg/ph/pg/jv/e48dfc4be58e4e6dab20065a71925079.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",按摩师
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/8t/0r/9y/ho/5819556d96384d6f8b0db87e873e440a.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",兔女郎
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/u2/ni/d4/7e/8b76511993614e2c84bcf6a7e2ead496.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",独自练习1
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/i6/ic/gf/sz/5aae7ba090374eb89fa4cf650d8a8c27.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",独自练习2
+https://oss.rw.bbmmic2.com/data/20220623/M51SpQDH/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",短片-六月[1]
+https://newa.yuk.jb-aiwei.cc/contents/videos/36000/36040/index.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",短片-六月[2]
+https://newa.yuk.jb-aiwei.cc/contents/videos/36000/36051/index.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",短片-六月[3]
+https://newa.yuk.jb-aiwei.cc/contents/videos/36000/36053/index.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",短片-极致嫩鲍诱惑
+https://newa.yuk.jb-aiwei.cc/contents/videos/35000/35423/index.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",短片-淫娃兔兔1
+https://oss.rw.bbmmic2.com/data/20230331/y91SjDPu/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",短片-淫娃兔兔2
+https://oss.rw.bbmmic2.com/data/20230331/MWiLI2Qw/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",短片-淫娃兔兔3
+https://oss.rw.bbmmic2.com/data/20230331/wSIHQxRx/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",短片-圣诞隐藏私拍
+https://oss.rw.bbmmic2.com/data/20230201/SJ4Xi371/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",短片-圣诞兔兔
+https://oss.rw.bbmmic2.com/data/20230127/JnUEZ6Of/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",短片-甜酷酷
+https://oss.rw.bbmmic2.com/data/20221221/esuqsIX3/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",短片-万圣节•特写
+https://oss.rw.bbmmic2.com/data/20221130/2afJFH36/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",短片-白丝诱惑
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/pc/pl/12/8b/e42a460570f24b01a74d96680dda0786.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",短片-连体衣
+https://oss.rw.bbmmic2.com/data/20220820/UJzhqJ5w/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",短片-美臀福利
+https://oss.rw.bbmmic2.com/data/20221105/J0hLzAts/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",短片-碎花内衣
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/69/jb/bi/fw/20126e7e0a12462b918d967cf87b8bda.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",短片-情趣女仆
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/am/jr/eo/yr/895402a7622e48228f71fb2b874345d6.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",短片-粉嫩黑丝
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/hr/mw/v7/cj/91fbc7eb82a449148ab6a0b58d5b9268.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",短片-久违中出
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/a4/f2/bf/ak/6efd2825848243879a24c6eaac25c86f.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",短片-白丝JK
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/pp/hh/cs/je/277847fb29e14f0c9925baf67fea96f0.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",短片-超紧裙子
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/h3/pc/tc/pu/17ade76bc5b64b7dbe4849cea2d79ae4.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",短片-黑丝JK
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/ca/jp/jl/up/b792f63ce5eb40b591b2f99d0cf975bd.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",短片-玩具足交
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/kv/y2/py/nv/edce4ada13884f1591c8af5e1063a192.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",短片-激情纯爱
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/ep/gu/9m/4l/fbcbd17845504371b6e95ff3b2086a45.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",短片-粉嫩白丝
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/do/4z/d7/k4/f51157f041264e4cb4490dd344803668.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",短片-懒惰
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/ff/4b/yn/rh/b181c716e35f48d1aee0063c5f714be1.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",短片-快乐时光
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/ye/rp/r8/bb/7c2fa3a7fca04875a56f3eb710a41224.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",短片-「流」
+https://oss.rw.bbmmic2.com/data/20211103/fF6r1loI/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",短片-「2022」
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/jv/t1/9o/ji/6c4a0c8b190944bc8dee75fc8e37cc67.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",短片-「晨」
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/eo/hw/ag/q1/1105642eb79f45f580c473c9fcb64725.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",花絮-公共场合
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/lu/2b/qx/84/13f8f69e45ff4c85ac114a3df7b1ca9e.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",花絮-幕后花絮•1
+https://oss.rw.bbmmic2.com/data/20210918/pg4sWQLe/index.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="玩偶",花絮-幕后花絮•2
+https://oss.rw.bbmmic2.com/data/20221105/0NXbWItw/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「二郎探花」纹身女孩涩感十足 身材匀称肤白 弹
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/v2/av/kd/hz/v1/gw/aafb04ca2014407e9e6a1a4693394295.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「二郎探花」巨乳少妇荡气痴缠 千柴烈火破套内射
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/v2/av/ky/qr/gn/sw/92f194c0c0844882afae0434241ba14b.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",[二郎探花」兔牙美眉娇俏可爱 换位深插内射溢出
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/v2/av/gr/dl/pd/zd/3c38b8d406e142f1aa835ccda43cc68a.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「二郎探花」娇嫩少女娇声绝顶页 泪眼迷离忘我舌吻
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/v2/av/qh/kk/qd/1b/326a513023a744ef83f2d2afd98bcd72.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",[推车探花」气质模特性感妩媚 美腿丰臀叫声可射
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/v2/av/tz/mr/dt/1i/d9e6ab2f62e342eab2a0413e5bb4bfd9.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",[猛牛探花」活力少女肉感Q弹翘臀美腿淫声不止
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/v2/av/0n/f7/w6/3d/9ef31674583e49aa96d75f3c019eac92.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「二郎探花」JK少女媚力四射 玉腿粉穴五套摩擦
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/v2/av/yh/4b/7i/a2/4bf3bb229fb84cb1ae588b08a3b1cfdd.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",[推车探花」娇羞萝莉吟春不止 玉乳蛮腰马达电臀
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/v2/av/0i/sp/qv/vg/0324b53a967e44b5949f32a32997432e.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「老司机探花」肤白貌美极品模特 黑丝美腿窈窕身材
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/v2/av/ph/9a/u6/nj/26ee6ad56ae1450fbe1977dcc2674350.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「推车哥探花」窈窕软妹酥胸乱跳 极品身材前凸后翘
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/lg/36/43/id/dbd5aa9ed32246efb3ac01b1455b335f.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「推车哥探花」清纯小妹矫嗔绝顶 老汉推车横冲直撞
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/2l/tb/7j/hs/81cf27424e764b8aa117e39b38b61795.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「老司机探花」长腿学生娇羞不已 吸舔取精爱不释手
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/n4/rf/lp/e2/7087f6a7dea2411eaeec0b2db6ed2a87.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「推车哥探花」十九年华如花似玉 细嫩花径淫战大屌
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/wi/bx/er/sc/1c36a41235dc42a38e7196bf42741665.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「推车哥探花」银铃少女娇喘不停 青春肉体紧致丝滑
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/a7/07/bp/tm/5f16505b988c42bebce748911fdc4dfd.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「老司机探花」妩媚人妻风韵犹存 肤白腿长初次兼职
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/de/3b/54/rk/59ec51ac937847b4bdf1b6f5434083e7.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「推车哥探花」含鲍待放吹弹可破 娇羞少女眉眼怀春
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/4t/v5/4a/1b/4202a0d3eded460fa7f63eff9b8ba79c.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「老牛探花」巧舌如骚穴意乱情迷 湿滑少女浪荡发情
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/e0/t7/6y/xc/fdea107def0d40038c059ab30f5812e9.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「老牛探花」红唇少女浴火难耐 紧致花径吞茎不停
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/71/yy/se/w2/f5fd2cbb85e84e55bdc1495471df8f24.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「老牛探花」长腿美臀完美炮架 邻家女孩呜咽不止
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/zf/f8/mx/hm/6e4898e298ee417cb6dea6d80d5660bf.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「老司机探花」冰山美人热穴喷涌 娇俏黑丝秀色可餐
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/et/kp/3e/rt/ef6025810a8c4a5292dc8d5f37864654.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「大屌探花」麻豆大屌长枪出洞 丰满少妇久旱甘露
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/8c/3b/u1/md/a5afd10dd0b945d2bc8ad4e69fca9684.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「老司机探花」修长美腿精致玉穴 怀春少女翘臀以待
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/92/ll/px/gd/4e87bac4400a4224b23401acbd5333bc.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「老牛探花」豪乳女孩水波荡漾 蜂腰玉腿极乐享受
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/sd/l2/63/as/bef0c2dd59bb4c88a1c816a817f8a2da.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「老司机探花」翘臀长腿情趣诱惑 苗条骚女腰肢乱颠
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/me/t0/dw/jn/5d7210353dc0423181c93f9759f2aabf.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「老司机探花」痴男荡妇白日宣淫 黑丝长腿无套内射
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/fy/5q/in/5w/8ccac0abb75149f4a858ac740a8f345b.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「推车哥探花」花言巧语勾引挑逗 花季少女惨遭无套
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/2d/me/7b/eq/e4a277a77f1249c79adb84b6badf6ea5.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「推车哥探花」温婉可人口技一流 气质美人极致服务
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/je/z7/ft/ou/4d5dd95c4f55404ab77f081b4f1d9615.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「小文探花」懵懂少女绝顶失神 玉腿横陈少经床事
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/ov/ph/4g/76/6adb951aded14269b9c0c82d3955251d.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「 老司机探花」胸大腰细眉眼如丝 母狗网红发情求欢
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/45/j2/e6/mp/fe17bcf982824ca9b151759f88e8320f.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「老司机探花」开档内裤骚气四溢 饥渴少妇摇尾乞怜
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/92/x3/zv/xk/819b2bef59db48f88d418f2d6cf1f267.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「小文探花」舔奶玩逼金枪不倒 短发少女娇喘求饶
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/qd/2n/zm/q4/88988149c1b047fd8f15752920374bd2.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「小文探花」巨乳尤物波涛汹涌 微醺探花越战越勇
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/yw/5y/ov/aw/5b968c1bdd7049fba2b810fee4b4fcbc.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「老司机探花」翘臀美腿爱不释手 黑丝网红娇声难耐
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/g7/ja/19/uh/bfa6ada6684f4b44a7366f1ed14498d9.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「小文探花」麻豆腥春历险记 红粉少女上工挨操
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/rq/uz/1v/1o/b1708195840a4c63a37fc8867110bfdc.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「老司机探花」肉感肥臀妙不可言 丰韵网红骚气四溢
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/qp/u5/6h/1c/42a37ff2f7344e70b4d3e3c3dbf3fe8d.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「老司机探花」射区探花淫新春 蕾丝欲兔开工迎春
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/98/yf/z1/55/67015a5b1ee64694bfdb5668f2a78299.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「老司机探花」射区探花淫新春 旗袍洋马胯下娇嗔
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/wd/gc/po/od/7b9b1fb3acb44fc0898b1adcac8efb43.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「小文探花」花言巧浯无套插入 肉感少女惨遭内射
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/r5/ko/rq/27/c6bc23738f6e42809b0a5ae81ffd4e5a.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「老司机探花」高冷兼职娇俏面容 辣手摧花毫不留情
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/fp/cs/kg/in/9024167783e041389c8b00e572088d43.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「山鸡探花」细狗女孩娇声不停 失恋之夜饥渴求欢
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/kd/y1/jz/8s/b93cbc507f8d43d6b39f487cbd7a4439.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「山鸡探花」麻豆山鸡雄风大振 娇乳少妇丢盔泄甲
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/64/00/bq/xs/a793c7ac2247462dbfff5d92fe9258ff.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「老司机探花」射区圣涎礼炮响 同胞姐妹淫乱狂炊
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/55/x7/80/ac/2a11588844fe4402b1c7bf7697b892c4.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「小文探花」跨年礼炮淫新年 娇俏少妇秀色可餐
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/fx/hh/xl/47/f67860994f5347fa9bc2b3f58b2d1e44.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「射区独家探花-老司机探花」射区圣诞礼炮响 骚女淫声平安液
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/x9/kg/0w/ai/018d047b423a4b50bfb80764fdd9eab6.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「老司机探花」全新视角体验升级 黑丝OL乳隐乳现
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/qd/nx/um/wk/9ab01879df7b4524b4b64fae9f2e6704.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「小文探花」甜美笑容惹人怜爱 巨乳嫩妹水流成河
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/fk/4p/yl/y0/729b10923f214f1582fb6213ac965ad2.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「老司机探花」老司机爆草阿根廷 足球宝贝活力思春
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/zp/2z/fg/tb/0db897893c394885bdb07e456286905b.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「老司机探花」老司机老牛新春 花季少女欲拒还迎
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/w7/ma/wv/pq/423c13da495c416c96b38a1ed0bb91b6.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「大鸟探花」麻豆大鸟火速归队御姐技师极致服
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/jp/a5/r6/2m/e2a1ce9c1c73491b9f670d383b26e7fa.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「老司机探花」老司机金枪不倒 肉感美妇饥渴乘骑
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/05/lb/ey/xq/563973dc980647ce8f62c4fe80cae4c0.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「老司机探花」老司机飞行体验 高冷空乘黑丝求爱
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/hz/q0/p4/xh/9c400befeed34d6ab4bdb47111f6986b.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「小文探花」小文爱恋初体验软萌少女羞色回应
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/4u/i1/0k/r5/be13b323bef141a7b188f70d20f91f99.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「老司机探花」 无套内射解禁 淫荡尤物口技封神
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/k3/gj/33/mk/56495ca3a195450a86936ad1bb13d879.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「老司机探花」丰臀骚货吹拉弹唱 老司机欲罢不能
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/k3/gj/33/mk/56495ca3a195450a86936ad1bb13d879.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「小文探花」黑丝浪女骚淫服务 深入浅出娇声不停
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/t7/9l/gp/1l/8c767cf9fc834a52a80694848e0e01ef.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「老司机」梅开二度 骚浪美人黑丝诱惑
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/2b/1m/d5/3b/52fcdeb74e6d4a81a1233fa81edba00a.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「小文探花」淫荡少女贴身肉勃 湿声浪叫不绝子耳
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/g1/jz/4l/tb/fd78317e705342f19c14be7a94c40da3.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「老司机探花」性感御姐掰穴插逼 私密部位一览无遗
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/e8/uy/pp/0d/597e20a7cd1b4f4b9141d90af3df1471.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-探花",「银先生探花」美乳少妇极致后入口交 多体位高清偷拍
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/t7/9l/gp/1l/8c767cf9fc834a52a80694848e0e01ef.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-135/欲求不满风韵后妈
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/8j/mh/ul/05/f85b7d6d22444d29a8de6787bcb62818.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-132/黑丝浪姐遭精液洗面
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/zm/ap/l1/5i/4625b2c714b441b0a8ef5a7973df5f9c.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-131/清纯少女嫩逼飘香
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/k6/nt/2y/yj/f4d6fe2e1adf4819a8d29e39679d0328.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-129/越南女房东仲卖房送逼
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/j0/7s/4p/vv/60ced8a0e5c24573a97d339e9efb38ea.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-128/美足痴女的阳痿疗程
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/th/l5/u1/aq/345fb9e3c56445e38e019cca7bfb7878.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-127/黑丝少妇吞白精
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/qp/oo/jy/ir/d9f2e4a24e894f498310b8d9e44118f3.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-126/痴女主播吞精饮尿
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/h3/c4/2v/sv/a6d11f81d30a41e7a966cb10b04c8fc9.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-125/姐弟之间不伦之恋
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/4i/w4/zv/dh/6d2ee84e829447869d25d54d5287187d.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-124/电竞陪玩少女的秘密
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/i5/rt/87/w4/e28e28664294478788ca9617eda19c81.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-123/黑丝御姐温情榨精
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/zc/ox/s3/jk/cda3420e41394ada8738fb478e3d702b.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-122/美乳白虎高潮失禁
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/fn/vi/fn/ox/3221872b6f424be5a2cef6a789ffec94.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-119/你老婆操起来真香
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/c7/fw/q9/si/ac4ab7c6392149c3a3f9294407f3d542.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-117/狼叔迷奸黑丝侄女
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/40/ku/6i/yo/fa7633f87abf4638b048ec469d4188c3.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-116/黑丝房客纯爱艳遇
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/bo/26/m5/ue/0315cfd039da4791a686892b4ada8255.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-114/口爆童颜巨乳嫩妹
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/yb/9e/kr/j1/28c0d9c657a74a5c8be6a799eac8b201.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-113/爽操少妇喷白浆
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/9o/w7/qp/4a/4ec0964678e645ce89eef69903c719e1.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-112/惹火上门按摩
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/9m/p7/v3/bo/b72ab2435d384fee9f620eb908911c51.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-110/肉臀学姐上位榨精
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/qk/2p/5h/s0/b14f9cce57684362ade1fd00c9833528.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-108/看着姐姐给人操
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/0h/87/t2/ap/2eaf34126e304659927ca047da48907e.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-107/丈夫当家是炮房
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/8c/hz/z5/xc/587c43e791b244559f5b66737d6ca870.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-106/我的裸体室友
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/9f/75/sj/0g/0a7e3eac418c47cbbd8fb1061bc3ec28.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-105/黑脸王的淫行逆袭
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/fp/c7/yx/2t/7e1116b8df4940df836ca2e31b80e779.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-104/诱人的家教老师
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/gf/ai/5g/hw/174350035e6843cf9e9af38ae2400bf6.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-096/侵犯骚货亲姐
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/l8/ne/uj/lt/38632e4f63f54ae6ae03fa036a845b87.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-090/兼职管家婆
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/su/vl/xg/f6/b5cb9d3fee2344f3b600a33ddb4c5630.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-089/鬼畜前任的威胁
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/tx/dr/qe/np/adcb9781dfaa4d6c9145780722df6a44.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-088/表姐的诱惑
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/x9/ag/h0/pi/08093f19f76b428487e20398acc62011.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-087/今晚老公不在家
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/0j/n8/f6/cl/bcc0bb45102f46b0976a8f405a1229c9.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-085/最后的激情性爱
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/cs/qk/e8/jb/31d3a61348b94a97821c31c426427f79.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-081/黑道大哥操我逼
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/vt/xv/q6/er/368e295dd4a34303bac04a58bea5af53.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-080/老师...我还要
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/v6/9z/ct/96/b77f4f8befe24e4190fa5687ec935f08.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-079/色气保险员
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/uq/vb/9o/3y/3d545bfa0a804c2a93b36e37147d27d0.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-078/纯爱恋歌
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/ui/tv/b9/8t/77aff3eec0d24cd9acd60eb998b2f3ce.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-074/粉逼美乳淫荡献情
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/qu/3t/o2/f0/b743657ec67b4f9aae1f281daa453f90.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-072/发小换错身
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/or/6p/qg/6e/bc55c595b94b4759b92cda6aacc71db6.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-071/少爷的乖女仆
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/3x/m7/vg/zv/d17a8774cb1140a5bfaf3fabde47900e.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-070/人妻红杏出墙
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/lj/ve/2d/rn/c64b512189904112940b5b4888f4393a.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-069/旗袍女神
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/do/bt/pm/lf/ca59bde94b9a424395bacac427da1acb.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-068/外约对象是弟媳
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/xq/m8/6j/ah/9346d658c3814efbb414c4de599db54e.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-066/父亲花钱买下的女人
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/dt/z1/iw/zw/2ac9602ba6ad43afbe82fa4d9e04e691.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-065/应酬潜规则
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/51/42/uz/c4/98fb9291181b4f7ab3df9fa22b6ffca6.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-064/淫荡的新邻居
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/tl/mg/mz/k1/59f6ab1fd5e04614bdbc35abbeb0a903.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-061/羞涩处女遭入侵
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/ge/i5/3q/ce/d111c578dd7e44409229536f528263a4.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-060/威胁强上高冷女子
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/sz/7v/wo/yl/fa23ff941d04477cb8192d40ef1ee012.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-059/出差艳遇
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/7x/xn/vl/o1/30cc6b1cfc7d46beb4d946f02c724794.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-058/催情迷幻药水
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/r6/he/r3/7i/57f718eb5bdd420ca5d26d367107f8d7.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-057/小模特私房约炮
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/g3/gh/zk/yt/a20456ea59ef464b8f2fbc87adf5a680.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-056/清纯少女邻居
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/br/69/uw/fm/5b9fd6c3100e4328bd954b1a1c35d4d4.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-055/淫•许愿精灵
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/y3/ot/av/9k/b6aeb152486f4a4db98958148a7b86a8.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-054/女秘书性爱商谈
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/ea/4b/7l/8e/8b8ff4c880634b48abbbc21f60a5ab56.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-053/敲诈性感人妻
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/cv/m0/r8/ud/8f4c0a5c71284fbe82e1ccbfc74a3662.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-052/肉欲宣泄失恋女
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/h6/tp/mc/96/c3d66c25da564a6aaaba7b16580de302.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-051/春药试用女郎
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/0y/uc/d9/g0/73f07ec9093e4540bcc376dd30b88cf2.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-050/诱人女教师
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/tc/49/ms/op/e71acef0b5a646f180f6940e127313fd.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-049/调教女仆美娇妻
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/yl/9t/f5/2m/32c0dab07a464ff7ad80b30d5e72c0fe.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-048/人妻肉便器
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/0i/gm/jf/fm/22ddb1ee85dd49caa736899ffd4c9f6d.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-047/强偷相奸OL
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/1i/55/za/e1/0318bfd04ad74137bd253eacd7b28cc0.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-046/足浴小妹的性服务
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/nm/y0/13/x5/e9be0274701d4d58874ca6663f6bee99.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-045/女上司骚气反差
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/td/e8/d6/yb/4339d805dd084e9e9da578cb5b1a25b2.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-044/顺从欲望之夜
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/71/8s/qb/29/160a6197bc9d4d06aa956077055d9ba7.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-043/青春盛宴
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/w8/2g/op/ee/94d65ada2d77477faf2df41469188390.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-042/交换女友
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/dt/u1/ra/aa/8eecbe9546ce4457835499adc52c9226.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-041/JK主播的迷奸餐
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/rc/ka/e6/z9/64b8001bb54a44818761fcfdf29b22db.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-040/朋友以上恋人未满
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/lf/2a/on/ol/ce941bc5ab0041848620f614a95a8eaf.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-039/约会前出轨背叛
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/d8/4v/90/f4/78344d0527b04d8b8a939d7d0863ac9e.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-038/空姐的飞淫之旅-奢糜篇
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/uk/41/i7/xt/8a50b81be9394dd3b03916bd37c7c89e.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-037/空姐的飞淫之旅-困顿篇
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/m3/gn/1u/fw/45429199cdce457ebccce932ac64d5c6.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-036/偷摄邻家淫妻
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/or/ns/ir/nm/ff8b839fc5244d119402d6951699dd80.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-035/毒舌巨乳邻居
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/71/ck/5a/so/a571f9b1f42b4ac5b3e795c9f411857e.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-034/人妻堕落之路-脱变篇
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/g5/86/jp/2h/25bc0723329d47099fe5eb8dfbfebaf8.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-033/人妻堕落之路-玷污篇
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/fg/bp/qh/e7/5e26313114c046358132670e725bc624.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-032/少女的噩梦
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/lw/d0/98/rh/fe9a2b7f19684982afec97e2d25ccb94.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-031/午夜电话艳遇
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/be/7q/wz/yz/59c93a2ef6824b798d569a02fb0c7c6e.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-030/兽欲交欢女学员
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/xh/bf/3k/fp/a54ddc7e93c142658c99dbd7d4129389.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-029/淫乱加班维修工
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/2m/3e/e7/0o/e7b4f58df3b14284bd274b23a2d7455f.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-028/课后性爱辅导
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/5f/7o/to/mb/cdcebd2d1a7e4c948d5b83324fa8c383.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-026/奥运迷妹小少妇
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/t7/k0/yd/wr/6af067b22d3a4fa293197c746c72c860.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-025/赔罪...潜规则
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/jy/cn/1d/2q/cf4836c5c81c4fa5825e0687c0ea9fd0.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-024/流量明星的爱
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/qj/qg/c8/1f/a09e527b128740cc8c62f1052016f11d.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-023/可爱女孩非亲妹
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/wl/to/ad/9f/dc39daa9de9b42598d40fb7ca3a74fc3.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-022/大学的性福生活
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/2d/o0/13/7p/b07235b957a747c1afbf11910a256b2d.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-021/绝望的肉偿债款
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/1p/0d/vb/yr/9c438f5074594706ac140779b12f819d.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-020/强奸暗恋同学
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/or/7b/8n/36/b5b8ee76c8fb4212854aed70080f7840.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-019/女神的秘密(下)
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/nv/sm/ah/n7/430f6ca997ed4755b97de404d789cea3.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-018/女神的秘密(上)
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/8d/1t/5n/p5/e1d6f1edaf194f0bbbe62bffa2a93df5.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-016/强奸温柔嫂子
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/hk/j4/rf/hb/96198f63d1ff4f68ab0bbc31748df6e7.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-015/色从天降
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/x9/30/33/g2/354727a08a0f4ac691712573c940c79c.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-014/心机拜金女
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/vp/k1/b5/2l/279f340b8c7c466a8dabdbe84d9e235a.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-013/网瘾少女的日常
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/85/by/qb/w0/220c040a0b9347a6858fd341dfe4d833.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-012/姐姐的性爱教室
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/ip/sf/75/3m/d002252ad5b8498aa54af8880620715d.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-011/劫色清纯高校生
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/tc/fw/lp/in/94ca0d7766f14d6e980c05ad0df4c3e6.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-010/照料色欲姐夫
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/ip/w0/h7/mb/d2ec1ff487ec41208d35a93e3f391cf3.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-009/香艳姐妹新邻居
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/ow/z3/5g/mg/90bb4af29a7c4e3c9d31fa75371c653d.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-008/出轨的妖艳少妇
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/hh/y4/uz/4k/251dd61a40324cf19846bc58f1cbff12.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-007/强上仙人跳渣女
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/al/72/bl/7v/ce8b0dbdbffb4d4d8f85c538ba35c4be.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-006/疯狂的女主播
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/7s/37/y5/7m/714af6843aae4ff79ce7adc7980d0712.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-005/维修工的心跳艳遇(下)
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/60/iw/9o/jv/8f91843b009a4379bef6c824fcb3b22f.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-004/妇女的不论之恋
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/eg/oc/n7/57/fbb21f9d41d54e468b7657d66b6aa6e7.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-003/菜鸟特务
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/kn/99/yw/34/c3ac47258c9f4b7399c6a6543b80b8c1.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-002/维修工的心跳艳遇(上)
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/gz/dp/pq/y9/acd55327c8504396a9ec4bf6050bd13a.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="麻豆-MSD",MSD-001/乱伦迷情药
+https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/qi/oi/gz/ux/dbf57474fbed49c9aa3fb97bcd75b891.m3u8?
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",BangBros 1 4K
+http://15110166167.com:80/241258546/v952z7581m/271577
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",BangBros 2 4K
+http://15110166167.com:80/241258546/v952z7581m/271578
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",BangBros 3 4K
+http://15110166167.com:80/241258546/v952z7581m/271579
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",BangBros 4 4K
+http://15110166167.com:80/241258546/v952z7581m/271580
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",CarnaFunk 2019 4K
+http://15110166167.com:80/241258546/v952z7581m/271581
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Holed 1 4K
+http://15110166167.com:80/241258546/v952z7581m/271582
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Holed 2 4K
+http://15110166167.com:80/241258546/v952z7581m/271583
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Holed 3 4K
+http://15110166167.com:80/241258546/v952z7581m/271584
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Holed 4 4K
+http://15110166167.com:80/241258546/v952z7581m/271585
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Holed 5 4K
+http://15110166167.com:80/241258546/v952z7581m/271586
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Holed 6 4K
+http://15110166167.com:80/241258546/v952z7581m/271587
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Holed 7 4K
+http://15110166167.com:80/241258546/v952z7581m/271588
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Holed 8 4K
+http://15110166167.com:80/241258546/v952z7581m/271589
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Holed 09 4K
+http://15110166167.com:80/241258546/v952z7581m/271590
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Holed 10 4K
+http://15110166167.com:80/241258546/v952z7581m/271591
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Holed Porno 1 4K
+http://15110166167.com:80/241258546/v952z7581m/319534
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Holed Porno 2 4K
+http://15110166167.com:80/241258546/v952z7581m/319535
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Holed Porno 3 4K
+http://15110166167.com:80/241258546/v952z7581m/319536
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Holed Porno 4 4K
+http://15110166167.com:80/241258546/v952z7581m/319537
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Holed Porno 5 4K
+http://15110166167.com:80/241258546/v952z7581m/319538
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Holed Porno 6 4K
+http://15110166167.com:80/241258546/v952z7581m/319539
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Holed Porno 7 4K
+http://15110166167.com:80/241258546/v952z7581m/319540
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Holed Porno 8 4K
+http://15110166167.com:80/241258546/v952z7581m/319541
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Holed Porno 9 4K
+http://15110166167.com:80/241258546/v952z7581m/319542
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Holed Porno 10 4K
+http://15110166167.com:80/241258546/v952z7581m/319543
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Contos do big 4K
+http://15110166167.com:80/241258546/v952z7581m/319544
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Contos Eroticos 4K
+http://15110166167.com:80/241258546/v952z7581m/319545
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Brasileirinhas: Contos do Big 4K 
+http://15110166167.com:80/241258546/v952z7581m/271523
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Brasileirinhas: Contos Eróticos 4K 
+http://15110166167.com:80/241258546/v952z7581m/271524
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",PLAYBOY FHD
+http://15110166167.com:80/241258546/v952z7581m/260418
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",PLAYBOY HD
+http://15110166167.com:80/241258546/v952z7581m/260419
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Sexy Hot HD
+http://15110166167.com:80/241258546/v952z7581m/260420
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",SEXTREME SD
+http://15110166167.com:80/241258546/v952z7581m/260421
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",BANG BROS NETWORK
+http://15110166167.com:80/241258546/v952z7581m/260423
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",EVIL ANGEL
+http://15110166167.com:80/241258546/v952z7581m/260424
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",FIT18
+http://15110166167.com:80/241258546/v952z7581m/260425
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",LETHAL HARDCORE
+http://15110166167.com:80/241258546/v952z7581m/260426
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",MY LIFE IN MIAMI
+http://15110166167.com:80/241258546/v952z7581m/260427
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",NEW SENSATIONS
+http://15110166167.com:80/241258546/v952z7581m/260428
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",PASSION
+http://15110166167.com:80/241258546/v952z7581m/260429
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",REALITY KINGS
+http://15110166167.com:80/241258546/v952z7581m/260430
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",BLOW ME POV
+http://15110166167.com:80/241258546/v952z7581m/260431
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",GOTMYLF
+http://15110166167.com:80/241258546/v952z7581m/260432
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",KINKY FAMILY
+http://15110166167.com:80/241258546/v952z7581m/260433
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",DREAMROOM
+http://15110166167.com:80/241258546/v952z7581m/260434
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",MOMMY BLOWS BEST
+http://15110166167.com:80/241258546/v952z7581m/260435
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",BLACKED
+http://15110166167.com:80/241258546/v952z7581m/260436
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",DAGFS
+http://15110166167.com:80/241258546/v952z7581m/260437
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",MY TINY WISH
+http://15110166167.com:80/241258546/v952z7581m/260438
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",JULES JORDAN
+http://15110166167.com:80/241258546/v952z7581m/260439
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",PRENCESS CUM
+http://15110166167.com:80/241258546/v952z7581m/260440
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",BREED IT RAW
+http://15110166167.com:80/241258546/v952z7581m/260441
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",CZECH HUNTER
+http://15110166167.com:80/241258546/v952z7581m/260442
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",BRAZZERS EN ESPANOL
+http://15110166167.com:80/241258546/v952z7581m/260443
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",DIABOLIC
+http://15110166167.com:80/241258546/v952z7581m/260444
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",BIPHORIA
+http://15110166167.com:80/241258546/v952z7581m/260445
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",CUM 4K
+http://15110166167.com:80/241258546/v952z7581m/260446
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",EROTIKVONBENAN
+http://15110166167.com:80/241258546/v952z7581m/260447
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",PERV CITY
+http://15110166167.com:80/241258546/v952z7581m/260448
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",ADULT TIME
+http://15110166167.com:80/241258546/v952z7581m/260449
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",STROKIES
+http://15110166167.com:80/241258546/v952z7581m/260450
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",FAMILY SWAP XXX
+http://15110166167.com:80/241258546/v952z7581m/260451
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",KINKY FAMILY
+http://15110166167.com:80/241258546/v952z7581m/260452
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",BROWN BUNNIES
+http://15110166167.com:80/241258546/v952z7581m/260453
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",DIGITAL PLAYGROUND
+http://15110166167.com:80/241258546/v952z7581m/260454
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",SLIM 4K
+http://15110166167.com:80/241258546/v952z7581m/260455
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",LETHAL HARDCORE
+http://15110166167.com:80/241258546/v952z7581m/260456
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",SUGAR BABES TV
+http://15110166167.com:80/241258546/v952z7581m/260457
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",REALITY JUNKIES
+http://15110166167.com:80/241258546/v952z7581m/260458
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",ANALIZED
+http://15110166167.com:80/241258546/v952z7581m/260459
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",FIRST ANAL QUEST
+http://15110166167.com:80/241258546/v952z7581m/260460
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",REAL DIRTY VIDEOS
+http://15110166167.com:80/241258546/v952z7581m/260461
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",HENTAINED
+http://15110166167.com:80/241258546/v952z7581m/260462
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",LUBED
+http://15110166167.com:80/241258546/v952z7581m/260463
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",HER LIMIT
+http://15110166167.com:80/241258546/v952z7581m/260464
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",HOT WIFE XXX
+http://15110166167.com:80/241258546/v952z7581m/260465
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",FAKE HOSTEL
+http://15110166167.com:80/241258546/v952z7581m/260466
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",FAKE TAXI
+http://15110166167.com:80/241258546/v952z7581m/260467
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",LUXURE
+http://15110166167.com:80/241258546/v952z7581m/260468
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",FAMILY STROKES
+http://15110166167.com:80/241258546/v952z7581m/260469
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",MODEL MEDIA ASIA
+http://15110166167.com:80/241258546/v952z7581m/260470
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",JESH BY JESH
+http://15110166167.com:80/241258546/v952z7581m/260471
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",JOI BABES
+http://15110166167.com:80/241258546/v952z7581m/260472
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",POVD
+http://15110166167.com:80/241258546/v952z7581m/260473
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",REAL MOM EXPOSED
+http://15110166167.com:80/241258546/v952z7581m/260474
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",PORNHOCHIC
+http://15110166167.com:80/241258546/v952z7581m/260475
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",KINKY INLAWS
+http://15110166167.com:80/241258546/v952z7581m/260476
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",GF REGENVE
+http://15110166167.com:80/241258546/v952z7581m/260477
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",NURU MASSAGE
+http://15110166167.com:80/241258546/v952z7581m/260478
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",LOVE HOME PORN
+http://15110166167.com:80/241258546/v952z7581m/260479
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",MOFOS LAB
+http://15110166167.com:80/241258546/v952z7581m/260480
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",GIRLSAWAY
+http://15110166167.com:80/241258546/v952z7581m/260481
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",KINKY SPA
+http://15110166167.com:80/241258546/v952z7581m/260482
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",AMATEUR ALLURE
+http://15110166167.com:80/241258546/v952z7581m/260483
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",SWEET SINNER
+http://15110166167.com:80/241258546/v952z7581m/260484
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",JAYS POV
+http://15110166167.com:80/241258546/v952z7581m/260485
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",MASSAGE ROOMS
+http://15110166167.com:80/241258546/v952z7581m/260486
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",NUBILE FILMS
+http://15110166167.com:80/241258546/v952z7581m/260487
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",LETS DO IT
+http://15110166167.com:80/241258546/v952z7581m/260488
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",LIFE SELECTOR
+http://15110166167.com:80/241258546/v952z7581m/260489
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",LOVE HER ASS
+http://15110166167.com:80/241258546/v952z7581m/260490
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",FAKEHUB ORIGINALS
+http://15110166167.com:80/241258546/v952z7581m/260491
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",MIKES APARTMENT
+http://15110166167.com:80/241258546/v952z7581m/260492
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",MILE HIGH
+http://15110166167.com:80/241258546/v952z7581m/260493
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",SEX WORKING
+http://15110166167.com:80/241258546/v952z7581m/260494
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",MOFOS B SIDES
+http://15110166167.com:80/241258546/v952z7581m/260495
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",MOFOS LAB
+http://15110166167.com:80/241258546/v952z7581m/260496
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",INTERRACIAL PASS
+http://15110166167.com:80/241258546/v952z7581m/260497
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",FILTHY POV
+http://15110166167.com:80/241258546/v952z7581m/260498
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",MONEY TALKS
+http://15110166167.com:80/241258546/v952z7581m/260499
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",RK PRIME
+http://15110166167.com:80/241258546/v952z7581m/260500
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",BLUSH EROTICA
+http://15110166167.com:80/241258546/v952z7581m/260501
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",DEEPER
+http://15110166167.com:80/241258546/v952z7581m/260502
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",HOOKUP HOTSHOT
+http://15110166167.com:80/241258546/v952z7581m/260503
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",MY LIFE IN MIAMI
+http://15110166167.com:80/241258546/v952z7581m/260504
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",MY PERVY FAMILY
+http://15110166167.com:80/241258546/v952z7581m/260505
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",MY VERY FIRST TIME
+http://15110166167.com:80/241258546/v952z7581m/260506
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",MYLF
+http://15110166167.com:80/241258546/v952z7581m/260507
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",MY PERVY FAMILY
+http://15110166167.com:80/241258546/v952z7581m/260508
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",BIG WET BUTTS
+http://15110166167.com:80/241258546/v952z7581m/260509
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",NF BUSTY
+http://15110166167.com:80/241258546/v952z7581m/260510
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",NUBILE PORN
+http://15110166167.com:80/241258546/v952z7581m/260511
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",OFFICE OBSESSION
+http://15110166167.com:80/241258546/v952z7581m/260512
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",PERV MOM
+http://15110166167.com:80/241258546/v952z7581m/260513
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",MONEY TALKS
+http://15110166167.com:80/241258546/v952z7581m/260514
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",RAW ATTACK
+http://15110166167.com:80/241258546/v952z7581m/260515
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",AVARAGE POV
+http://15110166167.com:80/241258546/v952z7581m/260516
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",DOGFART NETWORK
+http://15110166167.com:80/241258546/v952z7581m/260517
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",PRETTY DIRTY
+http://15110166167.com:80/241258546/v952z7581m/260518
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",PRIVATE
+http://15110166167.com:80/241258546/v952z7581m/260519
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",PROPERTY SEX
+http://15110166167.com:80/241258546/v952z7581m/260520
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",PUBLIC AGENT
+http://15110166167.com:80/241258546/v952z7581m/260521
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",PUBLIC PICKUPS
+http://15110166167.com:80/241258546/v952z7581m/260522
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",PURE18
+http://15110166167.com:80/241258546/v952z7581m/260523
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",RAW ATTACK
+http://15110166167.com:80/241258546/v952z7581m/260524
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",REAL EX GIRLFRIENDS
+http://15110166167.com:80/241258546/v952z7581m/260525
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",REAL SENSUAL
+http://15110166167.com:80/241258546/v952z7581m/260526
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",RK PRIME
+http://15110166167.com:80/241258546/v952z7581m/260527
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",BIG NATURALS
+http://15110166167.com:80/241258546/v952z7581m/260528
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",SEX WORKING
+http://15110166167.com:80/241258546/v952z7581m/260529
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",SHARE MY BF
+http://15110166167.com:80/241258546/v952z7581m/260530
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",MOMMYS GIRL
+http://15110166167.com:80/241258546/v952z7581m/260531
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",NEBRASKA COEDS
+http://15110166167.com:80/241258546/v952z7581m/260532
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",HARD X
+http://15110166167.com:80/241258546/v952z7581m/260533
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",SWALLOW SALON
+http://15110166167.com:80/241258546/v952z7581m/260534
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",MY VERY FIRST TIME
+http://15110166167.com:80/241258546/v952z7581m/260535
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",NET VIDEO GIRLS
+http://15110166167.com:80/241258546/v952z7581m/260536
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",TURNING TWISTYS
+http://15110166167.com:80/241258546/v952z7581m/260537
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",MOM TEACH SEX
+http://15110166167.com:80/241258546/v952z7581m/260538
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",1111 CUSTOMS
+http://15110166167.com:80/241258546/v952z7581m/260539
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",HOMEMADE AMATUERS
+http://15110166167.com:80/241258546/v952z7581m/260540
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",ABELLA DANGER
+http://15110166167.com:80/241258546/v952z7581m/260541
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",ADRIANA CHECHIK
+http://15110166167.com:80/241258546/v952z7581m/260542
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",ALINA LOPEZ
+http://15110166167.com:80/241258546/v952z7581m/260543
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",ANGELA WHITE
+http://15110166167.com:80/241258546/v952z7581m/260544
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",ARIANA MARIE
+http://15110166167.com:80/241258546/v952z7581m/260545
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",AUGUST AMES
+http://15110166167.com:80/241258546/v952z7581m/260546
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",AUTUMN FALLS
+http://15110166167.com:80/241258546/v952z7581m/260547
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",BRANDI LOVE
+http://15110166167.com:80/241258546/v952z7581m/260548
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",DANI DANIELS
+http://15110166167.com:80/241258546/v952z7581m/260549
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",DANI JENSEN
+http://15110166167.com:80/241258546/v952z7581m/260550
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",ELSA JEAN
+http://15110166167.com:80/241258546/v952z7581m/260551
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",EMILY WILLIS
+http://15110166167.com:80/241258546/v952z7581m/260552
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",EVA LOVIA
+http://15110166167.com:80/241258546/v952z7581m/260553
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",GINA VALENTINA
+http://15110166167.com:80/241258546/v952z7581m/260554
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",JANICE GRIFFITH
+http://15110166167.com:80/241258546/v952z7581m/260555
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",JESSA RHODES
+http://15110166167.com:80/241258546/v952z7581m/260556
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",LANA RHOADES
+http://15110166167.com:80/241258546/v952z7581m/260557
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",LENA PAUL
+http://15110166167.com:80/241258546/v952z7581m/260558
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",LISA ANN
+http://15110166167.com:80/241258546/v952z7581m/260559
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",MADISON IVY
+http://15110166167.com:80/241258546/v952z7581m/260560
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",MIA MALKOVA
+http://15110166167.com:80/241258546/v952z7581m/260561
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",NICOLE ANISTON
+http://15110166167.com:80/241258546/v952z7581m/260562
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",PORNSTAR: CHAD ALVA
+http://15110166167.com:80/241258546/v952z7581m/260563
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",UMA JOLIE
+http://15110166167.com:80/241258546/v952z7581m/260564
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",VALENTINA NAPPI
+http://15110166167.com:80/241258546/v952z7581m/260565
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",ALICE REDLIPS
+http://15110166167.com:80/241258546/v952z7581m/260566
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",BIGTITTYGOTHEGG
+http://15110166167.com:80/241258546/v952z7581m/260567
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",CHERRY GRACE
+http://15110166167.com:80/241258546/v952z7581m/260568
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",CHESSIE RAE
+http://15110166167.com:80/241258546/v952z7581m/260569
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",DIANA DANIELS
+http://15110166167.com:80/241258546/v952z7581m/260570
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",ELLAKAI
+http://15110166167.com:80/241258546/v952z7581m/260571
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",FIAMURR
+http://15110166167.com:80/241258546/v952z7581m/260572
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",KRISS KISS
+http://15110166167.com:80/241258546/v952z7581m/260573
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",LEAH MEOW
+http://15110166167.com:80/241258546/v952z7581m/260574
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",LUXURYGIRL
+http://15110166167.com:80/241258546/v952z7581m/260575
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",MIKANIKA69
+http://15110166167.com:80/241258546/v952z7581m/260576
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",MINI DIVA
+http://15110166167.com:80/241258546/v952z7581m/260577
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",MOLLYREDWOLF
+http://15110166167.com:80/241258546/v952z7581m/260578
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",NOFACEGIRL
+http://15110166167.com:80/241258546/v952z7581m/260579
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",NOTSOAMATEUR
+http://15110166167.com:80/241258546/v952z7581m/260580
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",NYNA FERRAGNI
+http://15110166167.com:80/241258546/v952z7581m/260581
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",PURPLE BITCH
+http://15110166167.com:80/241258546/v952z7581m/260582
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",REISLIN
+http://15110166167.com:80/241258546/v952z7581m/260583
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",SECRETCRUSH
+http://15110166167.com:80/241258546/v952z7581m/260584
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",SHAIDEN ROUGE
+http://15110166167.com:80/241258546/v952z7581m/260585
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",SOLAZOLA
+http://15110166167.com:80/241258546/v952z7581m/260586
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",SWEET BUNNY
+http://15110166167.com:80/241258546/v952z7581m/260587
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",TESSA WINTERS
+http://15110166167.com:80/241258546/v952z7581m/260588
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",TINNA ANGEL
+http://15110166167.com:80/241258546/v952z7581m/260589
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",YINYLEON
+http://15110166167.com:80/241258546/v952z7581m/260590
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",SUGAR BABES TV
+http://15110166167.com:80/241258546/v952z7581m/260591
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",SPIZOO
+http://15110166167.com:80/241258546/v952z7581m/260592
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",SPANKMONSTER
+http://15110166167.com:80/241258546/v952z7581m/260593
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",MY PERVY FAMILY
+http://15110166167.com:80/241258546/v952z7581m/260594
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",LETSDOIT
+http://15110166167.com:80/241258546/v952z7581m/260595
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",DOGFART NETWORK
+http://15110166167.com:80/241258546/v952z7581m/260596
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",BRAZZERS
+http://15110166167.com:80/241258546/v952z7581m/260597
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",BRATTY SIS
+http://15110166167.com:80/241258546/v952z7581m/260598
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",1111 CUSTOMERS
+http://15110166167.com:80/241258546/v952z7581m/260599
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",JAYS POV
+http://15110166167.com:80/241258546/v952z7581m/260600
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",NF BUSTY
+http://15110166167.com:80/241258546/v952z7581m/260601
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",STEP SIBILINGS CAUGHT
+http://15110166167.com:80/241258546/v952z7581m/260602
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",MOFOS
+http://15110166167.com:80/241258546/v952z7581m/260603
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",SEXTAPE GERMANY
+http://15110166167.com:80/241258546/v952z7581m/260605
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",BUMSBUS
+http://15110166167.com:80/241258546/v952z7581m/260606
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",EROTIK VON BENAN
+http://15110166167.com:80/241258546/v952z7581m/260607
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",USER DATE
+http://15110166167.com:80/241258546/v952z7581m/260608
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",WOLF WAGNER LOVE
+http://15110166167.com:80/241258546/v952z7581m/260609
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",ALP GIRLS
+http://15110166167.com:80/241258546/v952z7581m/260610
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",DEUTSCHLAND REPORT
+http://15110166167.com:80/241258546/v952z7581m/260611
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",REIFE SWINGER
+http://15110166167.com:80/241258546/v952z7581m/260612
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",SWINGER
+http://15110166167.com:80/241258546/v952z7581m/260613
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",TEENIE
+http://15110166167.com:80/241258546/v952z7581m/260614
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",STUDENT
+http://15110166167.com:80/241258546/v952z7581m/260615
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",OUTDOOR
+http://15110166167.com:80/241258546/v952z7581m/260616
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",ROMANCE
+http://15110166167.com:80/241258546/v952z7581m/260617
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",RUSSIA
+http://15110166167.com:80/241258546/v952z7581m/260618
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",SCHOOL
+http://15110166167.com:80/241258546/v952z7581m/260619
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",MILF
+http://15110166167.com:80/241258546/v952z7581m/260620
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",MASSAGE
+http://15110166167.com:80/241258546/v952z7581m/260621
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",LESBIAN
+http://15110166167.com:80/241258546/v952z7581m/260622
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",ITALY
+http://15110166167.com:80/241258546/v952z7581m/260623
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",HARDCORE
+http://15110166167.com:80/241258546/v952z7581m/260624
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",CAARTON PORN
+http://15110166167.com:80/241258546/v952z7581m/260625
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",BLOWJOB
+http://15110166167.com:80/241258546/v952z7581m/260626
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",BLOND
+http://15110166167.com:80/241258546/v952z7581m/260627
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",BLACK
+http://15110166167.com:80/241258546/v952z7581m/260628
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",BIG COOK
+http://15110166167.com:80/241258546/v952z7581m/260629
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",BABYSITER
+http://15110166167.com:80/241258546/v952z7581m/260630
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",ASIAN
+http://15110166167.com:80/241258546/v952z7581m/260631
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",ANAL
+http://15110166167.com:80/241258546/v952z7581m/260632
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",MY WIFE
+http://15110166167.com:80/241258546/v952z7581m/260633
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",HD PORN
+http://15110166167.com:80/241258546/v952z7581m/260634
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",NURSE
+http://15110166167.com:80/241258546/v952z7581m/260635
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",POLICE OFFICER
+http://15110166167.com:80/241258546/v952z7581m/260636
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",PRISONERS
+http://15110166167.com:80/241258546/v952z7581m/260637
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",SANTINI
+http://15110166167.com:80/241258546/v952z7581m/260638
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",FOXXY
+http://15110166167.com:80/241258546/v952z7581m/260639
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",NATALIE MARS
+http://15110166167.com:80/241258546/v952z7581m/260640
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",KHLOE KAY
+http://15110166167.com:80/241258546/v952z7581m/260641
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",AUBREY KATE
+http://15110166167.com:80/241258546/v952z7581m/260642
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",ARMOND RIZZO
+http://15110166167.com:80/241258546/v952z7581m/260643
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",ATLAS GRAN
+http://15110166167.com:80/241258546/v952z7581m/260644
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",CALVIN BANKS
+http://15110166167.com:80/241258546/v952z7581m/260645
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",DANTE JOLLE
+http://15110166167.com:80/241258546/v952z7581m/260646
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",DE ANGELO
+http://15110166167.com:80/241258546/v952z7581m/260647
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",JACK HUNTER
+http://15110166167.com:80/241258546/v952z7581m/260648
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美", ROCCO STELLE
+http://15110166167.com:80/241258546/v952z7581m/260649
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",RICKY LARKIN
+http://15110166167.com:80/241258546/v952z7581m/260650
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",MAX KONNOR
+http://15110166167.com:80/241258546/v952z7581m/260651
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",KYLER MOSS
+http://15110166167.com:80/241258546/v952z7581m/260652
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",ROCCO STELLE
+http://15110166167.com:80/241258546/v952z7581m/260653
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",THROATED
+http://15110166167.com:80/241258546/v952z7581m/260654
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",TRANS EROTICA
+http://15110166167.com:80/241258546/v952z7581m/260655
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",TRANS ANGELS
+http://15110166167.com:80/241258546/v952z7581m/260656
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",X CHIMERA
+http://15110166167.com:80/241258546/v952z7581m/260657
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",HOLED
+http://15110166167.com:80/241258546/v952z7581m/260658
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",BUMS BUS
+http://15110166167.com:80/241258546/v952z7581m/260659
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",PURE MATURE
+http://15110166167.com:80/241258546/v952z7581m/260660
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",FAPADOO
+http://15110166167.com:80/241258546/v952z7581m/260661
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",MOM XXX
+http://15110166167.com:80/241258546/v952z7581m/260662
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",ALL GROUP SEX
+http://15110166167.com:80/241258546/v952z7581m/260663
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Playboy FHD
+http://15110166167.com:80/241258546/v952z7581m/271483
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Sex Prive FHD
+http://15110166167.com:80/241258546/v952z7581m/271513
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Sex Prive HD
+http://15110166167.com:80/241258546/v952z7581m/271514
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Sextreme HD
+http://15110166167.com:80/241258546/v952z7581m/271515
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Sextreme SD
+http://15110166167.com:80/241258546/v952z7581m/271516
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Visit-X TV HD
+http://15110166167.com:80/241258546/v952z7581m/271522
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",A Casa das Brasileirinhas Vol. 62
+http://15110166167.com:80/241258546/v952z7581m/271525
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",A Casa das Brasileirinhas Vol. 63
+http://15110166167.com:80/241258546/v952z7581m/271526
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Abella Danger
+http://15110166167.com:80/241258546/v952z7581m/271527
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Alessandra Marques
+http://15110166167.com:80/241258546/v952z7581m/271528
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Alexandre Frota
+http://15110166167.com:80/241258546/v952z7581m/271529
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Aline Rios
+http://15110166167.com:80/241258546/v952z7581m/271530
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Ana Julia
+http://15110166167.com:80/241258546/v952z7581m/271531
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Analine
+http://15110166167.com:80/241258546/v952z7581m/271532
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Asiaticas 01
+http://15110166167.com:80/241258546/v952z7581m/271533
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Asiaticas 02
+http://15110166167.com:80/241258546/v952z7581m/271534
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Asiaticas 03
+http://15110166167.com:80/241258546/v952z7581m/271535
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Asiaticas 04
+http://15110166167.com:80/241258546/v952z7581m/271536
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Brad Montana 01
+http://15110166167.com:80/241258546/v952z7581m/271537
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Brad Montana 02
+http://15110166167.com:80/241258546/v952z7581m/271538
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Brad Montana 03
+http://15110166167.com:80/241258546/v952z7581m/271539
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Brad Montana 04
+http://15110166167.com:80/241258546/v952z7581m/271540
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Brad Montana 05
+http://15110166167.com:80/241258546/v952z7581m/271541
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Brad Montana 06
+http://15110166167.com:80/241258546/v952z7581m/271542
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Brad Montana 07
+http://15110166167.com:80/241258546/v952z7581m/271543
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Brad Montana 08
+http://15110166167.com:80/241258546/v952z7581m/271544
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Brad Montana 09
+http://15110166167.com:80/241258546/v952z7581m/271545
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Brad Montana 10
+http://15110166167.com:80/241258546/v952z7581m/271546
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Brad Montana 11
+http://15110166167.com:80/241258546/v952z7581m/271547
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Brad Montana 12
+http://15110166167.com:80/241258546/v952z7581m/271548
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Brazzers 01 FHD
+http://15110166167.com:80/241258546/v952z7581m/271549
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Brazzers 02 FHD
+http://15110166167.com:80/241258546/v952z7581m/271550
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Brazzers 03 FHD
+http://15110166167.com:80/241258546/v952z7581m/271551
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Brazzers 04 FHD
+http://15110166167.com:80/241258546/v952z7581m/271552
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Brazzers 05 FHD
+http://15110166167.com:80/241258546/v952z7581m/271553
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Brazzers 06 FHD
+http://15110166167.com:80/241258546/v952z7581m/271554
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Carol Fenix
+http://15110166167.com:80/241258546/v952z7581m/271555
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Esposa Heyya [amador]
+http://15110166167.com:80/241258546/v952z7581m/271556
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Fernandinha Fernandez
+http://15110166167.com:80/241258546/v952z7581m/271557
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Gina Jolie
+http://15110166167.com:80/241258546/v952z7581m/271558
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Julia Mattos
+http://15110166167.com:80/241258546/v952z7581m/271559
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Julia Paes
+http://15110166167.com:80/241258546/v952z7581m/271560
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Julianna Vega
+http://15110166167.com:80/241258546/v952z7581m/271561
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Loupan
+http://15110166167.com:80/241258546/v952z7581m/271562
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Manu Fox
+http://15110166167.com:80/241258546/v952z7581m/271563
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Mia Linz
+http://15110166167.com:80/241258546/v952z7581m/271564
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Mofos Latina Sex FHD
+http://15110166167.com:80/241258546/v952z7581m/271565
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Monica Santiago
+http://15110166167.com:80/241258546/v952z7581m/271566
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Nicolle Bittencourt
+http://15110166167.com:80/241258546/v952z7581m/271567
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Pamela Pantera
+http://15110166167.com:80/241258546/v952z7581m/271568
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Rafaela Nakamura
+http://15110166167.com:80/241258546/v952z7581m/271569
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Rita Cadillac 01
+http://15110166167.com:80/241258546/v952z7581m/271570
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Rita Cadillac 02
+http://15110166167.com:80/241258546/v952z7581m/271571
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Show de Bundas 01
+http://15110166167.com:80/241258546/v952z7581m/271572
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Show de Bundas 02
+http://15110166167.com:80/241258546/v952z7581m/271573
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Thammy Gretchen
+http://15110166167.com:80/241258546/v952z7581m/271574
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Wanessa Boyer
+http://15110166167.com:80/241258546/v952z7581m/271575
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Yara Rocha
+http://15110166167.com:80/241258546/v952z7581m/271576
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Asian
+http://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Gay
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",POV
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Pornstar
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/NSFW.png" group-title="欧美",Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Anal (720p)
+https://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetAsian.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Asian (720p)
+https://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBigAss.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Big Ass (720p)
+https://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBigDick.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Big Dick (720p)
+https://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBigTits.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Big Tits (720p)
+https://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBlonde.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Blonde (720p)
+https://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBlowjob.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Blowjob (720p)
+https://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBrunette.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Brunette (720p)
+https://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetCompilation.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Compilation (720p)
+https://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetCuckold.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Cuckold (720p)
+https://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetFetish.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Fetish (720p)
+https://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetGangbang.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Gangbang (720p)
+https://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetGay.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Gay (720p)
+https://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetHardcore.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Hardcore (720p)
+https://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetInterracial.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Interracial (720p)
+https://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetLatina.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Latina (720p)
+https://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetLesbian.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Lesbian (720p)
+https://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetLiveCams.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Live Cams (720p)
+https://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetMILF.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net MILF (720p)
+https://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetPornstar.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Pornstar (720p)
+https://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetPOV.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net POV (720p)
+https://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetRough.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Rough (720p)
+https://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetRussian.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Russian (720p)
+https://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetTeen.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Teen (720p)
+https://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetThreesome.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Threesome (720p)
+https://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetWoman.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Woman (720p)
+https://live.redtraffic.net/woman.m3u8
+#EXTINF:-1 tvg-id="Babestation24.ch" tvg-logo="https://i.imgur.com/DNJP1gi.png" group-title="XXX",Babestation24 (720p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
+#EXTINF:-1 tvg-id="BlueHustler.nl" tvg-logo="https://i.imgur.com/G1YaX0Q.png" group-title="XXX",Blue Hustler (720p)
+http://193.33.240.8:8080/hustler_hd/index.m3u8
+#EXTINF:-1 tvg-id="BrazzersTVEurope.us" tvg-logo="https://i.imgur.com/95nP0Pb.png" group-title="XXX",Brazzers TV Europe (720p)
+https://cdn-main.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="DorcelTV.nl" tvg-logo="https://i.imgur.com/RkzyjEd.png" group-title="XXX",Dorcel TV (720p)
+https://cdn-main.lolokoko.tv/DorcelTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EroXHD.nl" tvg-logo="https://i.imgur.com/1EOQFqE.png" group-title="XXX",EroX HD (720p)
+https://cdn-main.lolokoko.tv/Eroxx.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EroXXXHD.nl" tvg-logo="https://i.imgur.com/ZNBLK41.png" group-title="XXX",EroXXX HD (720p)
+https://cdn-main.lolokoko.tv/Eroxxx.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HustlerHD.nl" tvg-logo="https://i.imgur.com/41Ej2io.png" group-title="XXX",Hustler HD (720p)
+https://cdn-main.lolokoko.tv/HUSTLER.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="JasminTV.lu" tvg-logo="https://i.imgur.com/3VdU9r0.png" group-title="XXX",Jasmin TV (1080p)
+http://109.71.163.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="JennyForYou.us" tvg-logo="https://i.imgur.com/W9x8sNg.png" group-title="XXX",Jenny For You (720p)
+https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTV.us" tvg-logo="https://i.imgur.com/esK4CBZ.png" group-title="XXX",Miami TV (720p)
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1 tvg-id="JennyLive.us" tvg-logo="https://i.imgur.com/3vsBZI3.png" group-title="XXX",Miami TV Jenny Live (720p) [Not 24/7]
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTVMexico.us" tvg-logo="https://i.imgur.com/MpQtdTb.png" group-title="XXX",Miami TV Mexico (1080p)
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+#EXTINF:-1 tvg-id="MyCamTVAnal.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="XXX",MyCamTV Anal (720p)
+https://live.mycamtv.com/anal.m3u8
+#EXTINF:-1 tvg-id="MyCamTVArab.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="XXX",MyCamTV Arab (720p)
+http://live.mycamtv.com/arab.m3u8
+#EXTINF:-1 tvg-id="MyCamTVAsian.cy" tvg-logo="https://i.imgur.com/FBSodo6.png" group-title="XXX",MyCamTV Asian (720p)
+https://live.mycamtv.com/asian.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBigAss.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Big Ass (720p)
+https://live.mycamtv.com/defstream.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBigTits.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Big Tits (720p)
+https://live.mycamtv.com/bigtits.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBlonde.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Blonde (720p)
+https://live.mycamtv.com/blonde.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBlowjob.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="XXX",MyCamTV Blowjob (720p)
+http://live.mycamtv.com/blowjob.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBrunette.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Brunette (720p)
+https://live.mycamtv.com/brunette.m3u8
+#EXTINF:-1 tvg-id="MyCamTVLatina.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Latina (720p)
+https://live.mycamtv.com/latina.m3u8
+#EXTINF:-1 tvg-id="MyCamTVMedium.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="XXX",MyCamTV Medium (720p)
+http://live.mycamtv.com/medium.m3u8
+#EXTINF:-1 tvg-id="MyCamTVMILF.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="XXX",MyCamTV MILF (720p)
+http://live.mycamtv.com/milf.m3u8
+#EXTINF:-1 tvg-id="MyCamTVSkinny.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Skinny (720p)
+https://live.mycamtv.com/arab.m3u8
+#EXTINF:-1 tvg-id="MyCamTVSquirt.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Squirt (720p)
+https://live.mycamtv.com/squirt.m3u8
+#EXTINF:-1 tvg-id="MyCamTVTeen.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="XXX",MyCamTV Teen (720p)
+http://live.mycamtv.com/teen.m3u8
+#EXTINF:-1 tvg-id="MyCamTVWhite.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV White (720p)
+https://live.mycamtv.com/white.m3u8
+#EXTINF:-1 tvg-id="MyCamTVYoung.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="XXX",MyCamTV Young (720p)
+http://live.mycamtv.com/young.m3u8
+#EXTINF:-1 tvg-id="Olala.ru" tvg-logo="https://i.imgur.com/6aOmZs4.png" group-title="XXX",O-la-la! (576p)
+http://31.148.48.15/O-la-la/index.m3u8
+#EXTINF:-1 tvg-id="PenthouseGold.us" tvg-logo="https://i.imgur.com/0JufwBJ.png" group-title="XXX",Penthouse Gold (1080p)
+http://51.159.102.100/PenthouseGold/index.m3u8
+#EXTINF:-1 tvg-id="PlayboyTVLatinAmericaHD.us" tvg-logo="https://i.imgur.com/B3DMUM9.png" group-title="XXX",Playboy TV Latin America (1080p)
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="PrivateTV.nl" tvg-logo="https://i.imgur.com/2yt8MAA.png" group-title="XXX",Private TV (576p)
+http://149.62.183.194:9293/play/a07t
+#EXTINF:-1 tvg-id="PrivateTVHD.nl" tvg-logo="https://i.imgur.com/89E8Ev2.png" group-title="XXX",Private TV HD (720p)
+https://cdn-main.lolokoko.tv/Private.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RedlightHD.nl" tvg-logo="https://i.imgur.com/g0QF5IG.png" group-title="XXX",Redlight HD (720p)
+https://cdn-main.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Silk.ru" tvg-logo="https://i.imgur.com/pbLpTrt.png" group-title="XXX",Silk (1080p) [Geo-blocked]
+http://live-1.otcnet.ru/shelkhdmts/playlist.m3u8
+#EXTINF:-1 tvg-id="VisitXTV.nl" tvg-logo="https://i.imgur.com/avtSqUu.png" group-title="XXX",Visit-X TV (720p)
+https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="XXXCartoons.de" tvg-logo="https://i.imgur.com/kNYY78z.png" group-title="Animation;XXX",XXX Cartoons (520p)
+http://144.76.58.245:2307/cartoon/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="XXX",东热01
+https://video1.rhsj520.com/nyrm3/2011225/DR/n0011/index.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="XXX",东热02
+https://video1.rhsj520.com/nyrm3/2011225/DR/n0010/index.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="XXX",东热03
+https://video1.rhsj520.com/nyrm3/2011225/DR/n0008/index.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="XXX",东热04
+https://video1.rhsj520.com/nyrm3/2011225/DR/n0001/index.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="XXX",一本00
+https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="XXX",二本01
+https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="XXX",三本02
+https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="XXX",一本03
+http://live.redtraffic.xyz:80/bigass.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="XXX",二本04
+http://live.redtraffic.xyz:80/blowjob.m3u8
+#EXTINF:-1 tvg-id="USA" tvg-logo="" group-title="XXX",欧美01
+http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="USA" tvg-logo="" group-title="XXX",欧美02
+http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="USA" tvg-logo="" group-title="XXX",松视1
+http://live.redtraffic.xyz:80/fetish.m3u8
+#EXTINF:-1 tvg-id="USA" tvg-logo="" group-title="XXX",松视2
+http://live.redtraffic.xyz:80/bigdick.m3u8
+#EXTINF:-1 tvg-id="USA" tvg-logo="" group-title="XXX",玩美台
+http://live.redtraffic.xyz:80/pov.m3u8
+#EXTINF:-1 tvg-id="USA" tvg-logo="" group-title="XXX",限制级
+http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
