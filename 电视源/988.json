@@ -1,0 +1,49 @@
+{
+"spider":"./JAR/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700",
+"wallpaper":"https://深色壁纸.xxooo.cf/",
+
+"sites":[
+{"key":"豆豆","name":"备用公众号【叨观荐影】","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
+{"key":"YGP","name":"🚀叨观荐影┃新片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
+{"key":"米搜","name":"🦋小米┃盘搜","type":3,"api":"csp_MIPanSo","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"抠搜","name":"🍄抠抠┃搜搜","type":3,"api":"csp_KkSs","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"Lib","name": "🌟立播┃秒播","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"厂长","name":"📔厂长┃不卡","type":3,"api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czys.pro/"},
+{"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
+{"key":"追剧","name":"🍓追剧┃多线","type":3,"api":"csp_AppTT","playerType":2,"ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
+{"key":"萌米","name":"👀萌米┃多线","type":3,"api":"csp_AppTT","timeout":15,"playerType":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
+{"key":"南瓜","name":"🎃南瓜┃多线","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"酷看","name":"💡酷看┃秒播","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"可可","name":"👻可可┃多线","type":3,"api":"csp_Kekys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"小点","name":"💥小点┃多线","type":3,"api":"csp_Appxd","searchable":1,"quickSearch":1,"changeable":0,"ext":"FbjEd1ddiJ6bwA0Z8ijG89k6OstPBosSHy5L8uXWgRZGSNrCqC7DmxucvvflR3fsMy/Wnih3xSpmA3pwCNspfAcIH4fYhmOEdGxX3jEdjqUpC+m0fSxkNAbkIy0diJWirn+WOtBkBcYhsgA8u1igBBUadbO0s0MCPsYcbHFRNw=="},
+//{"key":"煤球","name":"🍓煤球┃多线","type":3,"api":"csp_Appmq","searchable":1,"quickSearch":1,"changeable":1},
+//{"key":"专线","name":"🚝专线┃秒播","type":3,"api":"csp_Zx4k","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+
+{ "key": "(18+)富二代资源", "name": "(18+)富二代资源", "type": 0, "api": "http://f2dcj6.com/sapi/?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+{ "key": "KxrbspE", "name": "淫水机资源(已修复)", "type": 0, "api": "https://www.xrbsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+{ "key": "gdlsE", "name": "香奶儿资源(已修复)", "type": 0, "api": "https://www.gdlsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+{ "key": "kxgav", "name": "白嫖资源(已修复)", "type": 0, "api": "https://www.kxgav.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+{ "key": "KpgxdyE", "name": "黄AV资源(已修复)", "type": 0, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+{ "key": "鲨鱼18+", "name": "鲨鱼18+", "type": 0, "api": "https://shayuapi.com/api.php/Seacms/vod", "searchable": 0, "quickSearch": 1, "filterable": 0 },
+{ "key": "(18+)探探资源", "name": "(18+)探探资源", "type": 0, "api": "https://apittzy.com/api.php/provide/vod/at/xml", "playUrl": "https://jiexi.ttbfp1.com/m3u8/?url=", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+ { "key": "(18+)大地资源", "name": "(18+)大地资源", "type": 0, "api": "https://dadiapi.com/api.php/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+ { "key": "(18+)乐播", "name": "(18+)乐播", "type": 0, "api": "https://lbapi9.com/api.php/provide/vod/at/xml", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+   { "key": "(18+)番号资源", "name": "(18+)番号资源", "type": 1, "api": "http://fhapi9.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+        { "key": "(18+)S猫资源", "name": "(18+)S猫资源", "type": 0, "api": "https://api.maozyapi.com/inc/api.php", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+  {"key":"*91麻豆","name":"*91麻豆","type":1,"api":"https://md91.cc/api.php/provide/vod/","searchable":0,"quickSearch":0},
+ {"key":"*老鸭资源","name":"*老鸭资源","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+
+{"key":"cc","name":"请勿相信视频中广告","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"changeable":0}
+],
+
+"logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
+"lives":[
+{"name":"live","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+{"name":"TV","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u","playerType":1 },
+{"name":"IPV6","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1 }]
+
+}
