@@ -1,0 +1,62 @@
+新韩源8,rtmp://edge2.everyon.tv:1935/etv2/phd877
+韩国有码标清22,rtmp://123.108.164.71/etv2/pld1003
+韩国有码高清24,rtmp://123.108.164.71/etv2/phd1006
+Tvhello,rtmp://live.tvhello.ru:1935/live/Stream1
+Tvhello,http://live.tvhello.ru:80/live/Stream1/playlist.m3u8
+韩(m3u8)-樱花台-61,http://edge2.everyon.tv/etv2sb/phd61/playlist.m3u8
+韩(m3u8)-girlTV-501,http://edge2.everyon.tv/etv2sb/phd501/playlist.m3u8
+韩(m3u8)-770,http://edge2.everyon.tv/etv2sb/phd770/playlist.m3u8
+韩(m3u8)-968,http://edge2.everyon.tv/etv2sb/phd968/playlist.m3u8
+韩(m3u8)-JAV-TV-1003,http://edge2.everyon.tv/etv2/phd1003/playlist.m3u8
+韩(m3u8)-Paradise-HD-1008,http://edge2.everyon.tv/etv2/phd1008/playlist.m3u8
+PinkTVCR台,rtmp://123.108.164.71/etv2sb//pld993
+台湾CR电视台PlayboyTV 18+,rtmp://edge2.everyon.tv/etv2//pld1005
+MidnitTVCR台,rtmp://123.108.164.71/etv2sb//pld991
+花花公子韩国2,rtmp://123.108.164.71/etv2//pld1006
+彩虹电影Hot MoviesTV 18+,rtmp://edge2.everyon.tv/etv2//pld1008
+松视TV MidnihtTV 18+,rtmp://123.108.164.71/etv2sb//pld499
+彩虹电视台HDXXX TV18++,rtmp://123.108.164.71/etv2sb//pld501
+ButGO TV,rtmp://123.108.164.71/etv2sb//pld968
+pboy TV,rtmp://123.108.164.71/etv2sb//pld992
+private SpiceTV,rtmp://123.108.164.71/etv2//pld1005
+J Hot GirlTV,rtmp://123.108.164.71/etv2//pld1008
+TheohTV 韩国,rtmp://123.108.164.71/etv2sb//phd61
+彩虹e频道Playy19+TV 18+,rtmp://edge2.everyon.tv/etv2//pld1006
+十八禁,十八禁
+松视1HD,http://211.22.61.109/stc/168022.m3u8
+频道01,http://edge1.everyon.tv:1935/etv1sb/phd10765/chunklist.m3u8
+韩国04台,http://edge2.everyon.tv/etv2sb/pld10062/playlist.m3u8
+韩国26台,http://edge1.everyon.tv/etv1sb/pld10928/playlist.m3u8
+CR频道|youdivalite,rtsp://46.249.213.87/broadcast/youdivalite-tablet.3gp
+CR频道|youdiva,rtsp://46.249.213.87/broadcast/youdiva-tablet.3gp
+CR频道|Studio TV 4(备用),rtsp://playback.d2see.com/wavemachine-live01/studio66tv_channel4
+CR频道|Studio TV 3,rtmp://orcadigital.mpl.miisolutions.net:1935/orcadigitalwr-live03/definst/studio66tv_channel3
+CR频道|Studio TV 3(备用),rtsp://playback.d2see.com/wavemachine-live01/studio66tv_channel3
+CR频道|Studio TV 2,rtmp://orcadigital.mpl.miisolutions.net:1935/orcadigitalwr-live03/definst/studio66tv_channel2
+CR频道|Studio TV 2(备用),rtsp://playback.d2see.com/wavemachine-live01/studio66tv_channel2
+CR频道|Studio TV 1(备用),rtsp://playback.d2see.com/wavemachine-live01/studio66tv_channel1
+CR频道|strictlybellydancing,rtsp://46.249.213.87/broadcast/strictlybellydancing-tablet.3gp
+CR频道|Sakura HD,rtsp://lm01.everyon.tv:1935/ptv//phd61
+CR频道|ruskoe noc2,rtsp://178.33.224.86:1935/leved/asianhc.stream
+CR频道|redlight-3,rtsp://46.249.213.87/broadcast/redlight-3-tablet.3gp
+CR频道|redlight-2,rtsp://46.249.213.87/broadcast/redlight-2-tablet.3gp
+CR频道|redlight-1,rtsp://46.249.213.87/broadcast/redlight-1-tablet.3gp
+CR频道|Red On SD,rtsp://lm01.everyon.tv:1935/ptv//pld60
+CR频道|Red On HD,rtsp://lm01.everyon.tv:1935/ptv//phd60
+CR频道|private spice2,rtsp://93.89.84.217:1935/cellcast/encoder2a1
+CR频道|private spice1,rtsp://93.89.84.217:1935/cellcast/encoder1a1
+CR频道|playboy chat 5,rtmp://playback.d2see.com:1935/wavemachine-live02/playboytv_channel5
+CR频道|playboy chat 4,rtmp://playback.d2see.com:1935/wavemachine-live02/playboytv_channel4
+CR频道|playboy chat 3,rtmp://playback.d2see.com:1935/wavemachine-live02/playboytv_channel3
+CR频道|playboy chat 1,rtmp://playback.d2see.com:1935/wavemachine-live02/playboytv_channel1
+CR频道|moononebabes,rtsp://46.249.213.87/broadcast/moononebabes-tablet.3gp
+CR频道|metro,rtsp://46.105.53.11/metro/metro/
+CR频道|iTV Polska,mms://stream.mni.pl/ITV
+CR频道|Cinero(JhotgirlTV),rtsp://lm01.everyon.tv:1935/ptv//phd59
+CR频道|bollywoodbikini,rtsp://46.249.213.87/broadcast/bollywoodbikini-tablet.3gp
+CR频道|bellaluz,rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
+CR频道|bellaclub,rtsp://46.249.213.87/broadcast/bellaclub-tablet.3gp
+CR频道|Amateri Czech Republic,mmsh://tv.webmisto.cz:7000
+CR频道|Eurotic TV(SD),rtmp://5.10.77.106/livepkgr/astra_1
+CR频道|Eurotic TV(HD),rtmp://5.10.77.106/livepkgr/astra_2
+
