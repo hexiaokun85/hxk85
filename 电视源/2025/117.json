@@ -28,7 +28,103 @@
         "danMu": "弹"
       }
     },
+    {
+            "key": "演唱会",
+            "name": "🎸音乐┃鉴赏",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "ext": "https://gh-proxy.net/https://github.com/hy5528/tvbox/blob/main/sub/ych.json",
+		    "jar": "https://gh-proxy.net/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
+
+        },		
    
+   {
+      "key": "乐器",
+      "name": "🖤吾爱┃乐器",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gh-proxy.net/https://github.com/hy5528/tvbox/blob/main/sub/吾爱乐器.json",
+      "spider": "https://gh-proxy.net/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar",
+      "jar": "https://gh-proxy.net/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
+    },
+     
+      {
+      "key": "演唱会自定义",
+      "name": "💛吾爱┃演唱会",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gh-proxy.net/https://github.com/hy5528/tvbox/blob/main/sub/演唱会-哔哩0723.json",
+      "spider": "https://gh-proxy.net/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar",
+      "jar": "https://gh-proxy.net/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
+    },
+  
+
+     {
+      "key": "经典音乐",
+      "name": "💜吾爱┃经典",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gh-proxy.net/https://github.com/hy5528/tvbox/blob/main/sub/吾爱经典.json",
+      "spider": "https://gh-proxy.net/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar",
+      "jar": "https://gh-proxy.net/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
+    },			
+  {
+      "key": "美食",
+      "name": " 🧡吾爱┃美食",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gh-proxy.net/https://github.com/hy5528/tvbox/blob/main/sub/吾爱美食0804.json",
+      "spider": "https://gh-proxy.net/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar",
+      "jar": "https://gh-proxy.net/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
+    },	
+  {
+      "key": "哔哩哔哩",
+      "name": "🅱️我的┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.net/https://github.com/hy5528/tvbox/blob/main/sub/我的Bili.json",
+      "jar": "https://gh-proxy.net/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
+    },	
+
+    {
+      "key": "yyt",
+      "name": "🎵音悦台┃mv",
+      "type": 3,
+      "api": "csp_Yinyuetai",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "playerType": 1,
+      "jar":"https://gh-proxy.net/https://github.com/hy5528/tvbox/blob/main/jar/YT.txt"
+     },
+	{
+            "key": "MTV合集",
+            "name": "🧡MTV┃合集",
+            "type": 1,
+            "api": "https://open-yaolaikeji.koyeb.app/mv/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
 	{
       "key": "聚合资源",
       "name": "🎀聚合┃影视",
@@ -287,7 +383,41 @@
 	"categories": ["短剧","国产剧","大陆综艺", "国产动漫","动作","喜剧","网络电影","恐怖","惊悚","爱情","剧情","战争","冒险","欧美剧","港台剧","日韩剧","欧美剧","其他剧","短剧", "日本动漫","欧美动漫","港台综艺","日韩综艺","欧美综艺"]},
    {"key":"巧技","name":"🐢聚搜┃搜索","type":3,"api":"csp_qiao2","playerType":2,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749917849270/0615qj.jpg;md5;410ad21caad9e6f6d40c1ae5ca2be662","ext":"7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"},
 {"key":"采集之王","name":"🐢采集┃搜索","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js","ext":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/采集之王.js?type=url&params=https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/采集静态.json$1$1"}, 
- 
+  {
+      "key": "直播转点播",
+      "name": "📺电视┃点播",
+      "playerType": 1,
+      "type": 3,
+      "api": "https://gh-proxy.net/https://github.com/hy5528/tvbox/blob/main/js/lib/zb.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gh-proxy.net/https://github.com/hy5528/tvbox/blob/main/sub/zb.json"
+    },
+	{
+      "key": "旺旺短剧",
+      "name": "😈旺旺┃短剧",
+      "type": 1,
+      "api": "https://api.wwzy.tv/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+     "短剧"
+      ]},
+    {
+      "key": "seed",
+      "name": "💡聚剧剧┃三盘",
+      "type": 3,
+      "api": "csp_SeedhubGuard",
+      "changeable": 0,
+      "ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5",
+      "searchable": 1,
+      "quickSearch": 1,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      }
+    },
     {
       "key": "文采",
       "name": "💮文采┃秒播",
@@ -400,6 +530,5 @@
       "changeable": 0
     },
    
-    }
   ]
 }
