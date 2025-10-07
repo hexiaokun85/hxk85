@@ -28,72 +28,7 @@
         "danMu": "弹"
       }
     },
-   {
-      "key": "瓜子影视",
-      "name": "🍓七月┃2K①",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "窈窕",
-      "name": "🥇七月┃4K①",
-      "type": 3,
-      "jar": "http://14.103.175.235:8801/tvbox/lib/huban.jar",
-      "api": "csp_HBT4",
-      "ext": "http://154.219.113.13:12121/test.php?site=labi###labi"
-    },
-    {
-      "key": "豆瓣",
-      "name": "🏠七月｜首页",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
-    },
-    {
-      "key": "淑女",
-      "name": "🥇七月┃4K②",
-      "type": 3,
-      "jar": "http://14.103.175.235:8801/tvbox/lib/huban.jar",
-      "api": "csp_HBT4",
-      "ext": "http://154.219.113.13:12121/test.php?site=mihdr###mihdr"
-    },
-    {
-      "key": "君子",
-      "name": "🥇七月┃4K③",
-      "type": 3,
-      "api": "csp_HBT4",
-      "jar": "http://14.103.175.235:8801/tvbox/lib/huban.jar",
-      "ext": "http://154.219.113.13:12121/test.php?site=erxiao###erxiao"
-    },
-    {
-      "key": "好逑",
-      "name": "🥇七月┃4K④",
-      "type": 3,
-      "jar": "http://14.103.175.235:8801/tvbox/lib/huban.jar",
-      "api": "csp_HBT4",
-      "ext": "http://154.219.113.13:12121/test.php?site=ouge###ouge"
-    },
-    {
-      "key": "琴瑟",
-      "name": "🥇七月┃4K⑤",
-      "type": 3,
-      "jar": "http://14.103.175.235:8801/tvbox/lib/huban.jar",
-      "api": "csp_HBT4",
-      "ext": "http://154.219.113.13:12121/test.php?site=qingying###qingying"
-    },
-    {
-      "key": "电影港",
-      "name": "🥇七月┃4K⑥",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://14.103.175.235:8801/tvbox/XYQHiker/电影港.json"
-    },
+   
 	{
       "key": "聚合资源",
       "name": "🎀聚合┃影视",
